@@ -41,3 +41,10 @@ O programa deve calcular:
 
 2. **Probabilidade Binomial Acumulada**  
    Calcula a probabilidade de ocorrerem até \(x\) sucessos: P <= x
+
+---
+
+## Trabalho 2 — Estimação pontual e intervalar
+
+Implementar as fórmulas para estimação pontual e intervalar de parâmetros e para cálculo de erro de estimação de: 1) Média e 2) Proporção.
+
